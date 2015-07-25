@@ -1,0 +1,1 @@
+add_executable (hello2 main.cpp)
