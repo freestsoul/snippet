@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rsa.dir/src/base64.cc.o CMakeFiles/rsa.dir/src/rsa.cc.o -o rsa   -L/opt/homebrew/opt/openssl/lib  -Wl,-rpath,/opt/homebrew/opt/openssl/lib -lssl -lcrypto -lpthread -ldl 
